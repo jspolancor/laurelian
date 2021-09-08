@@ -1,0 +1,24 @@
+{
+  "links": [
+    {
+      "name": "OpenSea",
+      "url": "https://opensea.io/laurelian",
+      "image": "images/social/opensea.png"
+    },
+    {
+      "name": "HEN",
+      "url": "https://www.hicetnunc.xyz/laurelian/creations",
+      "image": "images/social/hen.png"
+    },
+    {
+      "name": "twitter",
+      "url": "https://twitter.com/laurelian_xyz",
+      "image": "images/social/twitter.svg"
+    },
+    {
+      "name": "instagram",
+      "url": "https://www.instagram.com/laurelian_xyz/",
+      "image": "images/social/instagram.png"
+    }
+  ]
+}
