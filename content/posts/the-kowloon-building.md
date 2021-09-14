@@ -1,7 +1,7 @@
 ---
 title: The Kowloon building
 date: 2021-09-13
-description: 'As soon as Winston had dealt with each of the messages, he clipped his speakwritten corrections to the appropriate copy of the Times and pushed them into the pneumatic tube. '
+description: "I have always been obessed with the strange walled city of Kowloon, the most densely populated city on earth's history. The Kowloon building is a series of NFT's that together make one monster building. Every piece represents an apartment, the Kowloon building will have 100 apartments. All apartmens have a story and details hidden in every corner"
 image: images/kowloon.jpeg
 ---
 
